@@ -1,14 +1,13 @@
 # MVC_CURD_Application
 
-
 ## Home Page
-![Home](images/home.png)
+<img src="images/home.png" width="700"/>
 
 ## Add Employee
-![Add](images/add.png)
+<img src="images/add.png" width="700"/>
 
 ## Update Employee
-![Update](images/update.png)
+<img src="images/update.png" width="700"/>
 
 ## Delete Employee
-![Delete](images/delete.png)
+<img src="images/delete.png" width="700"/>
