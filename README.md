@@ -10,4 +10,4 @@
 <img src="images/update.png" width="700"/>
 
 ## Delete Employee
-<img src="images/delete.png" width="700"/>
+<img src="images/view.png" width="700"/>
